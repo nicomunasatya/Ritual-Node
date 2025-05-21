@@ -10,7 +10,7 @@
 # Function to display logo
 display_logo() {
   sleep 2
-  curl -s https://raw.githubusercontent.com/bangpateng/logo/refs/heads/main/logo.sh | bash
+  curl -s https://raw.githubusercontent.com/nicomunasatya/Ritual-Node/main/logo.sh | bash
   sleep 1
 }
 
