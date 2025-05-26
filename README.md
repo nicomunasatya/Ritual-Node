@@ -1,5 +1,5 @@
 # Ritual-Node
-Running Ritual Node using VPS with auto install one line code command
+### Running Ritual Node using VPS with auto install one line code command
 - Ritual brings AI on-chain We’re building a way for any protocol, application, or smart contract to integrate AI models with a few lines of code.
 - Fundraising : $25M
   ![Fundrising Ritual](https://raw.githubusercontent.com/nicomunasatya/Ritual-Node/main/img/fundrising_ritual.jfif)
